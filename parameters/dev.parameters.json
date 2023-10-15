@@ -20,6 +20,12 @@
         "appServiceAppName": {
             "value": "mmiranda-fe-dev"
         },
+        "azureMonitorName": {
+            "value": "mmiranda-am-dev"
+        },
+          "appInsightsName": {
+            "value": "mmiranda-ai-dev"
+        },
         "location": {
             "value": "West US 3"
         }
