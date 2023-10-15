@@ -3,22 +3,22 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "environmentType": {
-            "value": "nonprod"
+            "value": "prod"
         },
         "postgreSQLServerName": {
-            "value": "mmiranda-dbsrv-dev"
+            "value": "mmiranda-dbsrv-dev" 
         },
         "postgreSQLDatabaseName": {
-            "value": "mmiranda-db-dev"
+            "value": "mmiranda-db-dev" 
         },
         "appServicePlanName": {
-            "value": "mmiranda-asp-dev"
+            "value": "mmiranda-asp-dev" 
         },
         "appServiceAPIAppName": {
-            "value": "mmiranda-be-dev"
+            "value": "mmiranda-be-dev" 
         },
         "appServiceAppName": {
-            "value": "mmiranda-fe-dev"
+            "value": "mmiranda-fe-dev" 
         },
         "azureMonitorName": {
             "value": "mmiranda-am-dev"
